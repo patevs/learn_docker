@@ -1,6 +1,6 @@
 # Learn Docker
 
-> Links, resources, and code related to my learning of `Docker` container system.
+> Links, resources, and code related to my learning of `Docker` containerized software virtualization system.
 
 ---
 
