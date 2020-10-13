@@ -1,16 +1,14 @@
-# Node Template
+# Learn Docker
 
-> A Repository Template for `NodeJS` Projects.
+> Links, resources, and code related to my learning of `Docker` container system.
+
+[`Docker`](https://www.docker.com/) is a set of [platform as a service (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service) products that use [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization) to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, [libraries](https://en.wikipedia.org/wiki/Library_(computing)) and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single [operating system kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) and therefore use fewer resources than [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine).
 
 ---
 
 ## Links & Resources
 
-* [`commitlint`](https://github.com/conventional-changelog/commitlint) Lint commit messages.
-  * [`commitlint-config-gitmoji`](https://github.com/arvinxx/commitlint-config-gitmoji) Commitlint config enforcing gitmoji rules.
-  * [Rules](https://github.com/conventional-changelog/commitlint/blob/master/docs/reference-rules.md)
-* [`husky`](https://github.com/typicode/husky) Git hooks made easy.
-* [`np`](https://github.com/sindresorhus/np) A better npm publish.
+* [Documentation](https://docs.docker.com/)
 
 ---
 
