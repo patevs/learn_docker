@@ -8,9 +8,9 @@
 
 ---
 
-## Links & Resources
+## Documentation
 
-* [Documentation](https://docs.docker.com/)
+* [Links & Resources](./docs/links.md)
 
 ---
 
@@ -18,6 +18,8 @@
 
 ```md
 .
+├── docs                 # Documentation
+│   └── links.md         # Links and resources
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
 ├── .np-config.json      # NPM publish (np) configuration
