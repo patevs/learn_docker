@@ -14,6 +14,7 @@
 * [`bcicen/ctop`](https://github.com/bcicen/ctop) Top-like interface for container metrics.
 * [`dive`](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image.
 * [`docker-mon`](https://github.com/icecrime/docker-mon) Console-based Docker monitoring.
+* [`dockstation`](https://github.com/DockStation/dockstation) Developer-centric application to managing projects based on Docker.
 * [`netdata`](https://github.com/netdata/netdata) Real-time performance monitoring, done right!
 
 ---
