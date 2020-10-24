@@ -20,5 +20,6 @@
 * [`kitematic`](https://github.com/docker/kitematic) Visual Docker Container Management on Mac & Windows.
 * [`netdata`](https://github.com/netdata/netdata) Real-time performance monitoring, done right!
 * [`portainer`](https://github.com/portainer/portainer) Making Docker and Kubernetes management easy.
+* [`nomad`](https://github.com/hashicorp/nomad) Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.
 
 ---
