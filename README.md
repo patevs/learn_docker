@@ -18,6 +18,8 @@
 
 ```md
 .
+├── .husky               # Husky configuration
+├── Dockerfiles          # Dockerfile examples
 ├── docs                 # Documentation
 │   └── links.md         # Links and resources
 ├── .editorconfig        # Editor configuration
